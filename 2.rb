@@ -1,6 +1,6 @@
 # Song Name:Pokemon Theme
 # Sheet Music: https://musescore.com/user/6217456/scores/2525106
-# BPM Used: I modified it to my liking
+# BPM Used: 150
 
 # These are my variables
 x = :piano
