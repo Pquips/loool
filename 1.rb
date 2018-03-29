@@ -1,7 +1,5 @@
 # Song Name:Pokemon Theme
-
 # Sheet Music: https://musescore.com/user/6217456/scores/2525106
-
 # BPM Used: I modified it to my liking
 
 # These are my variables
@@ -32,10 +30,10 @@ end
   with_synth x do
     use_bpm b
     8.times do
-      fm #Here I use the functions
+      fm # Here I use the function for the first measure
     end
     8.times do
-      sm
+      sm # Here I use the function for the second measure
     end
     a = (a+0.125)
     b = (b+10)
